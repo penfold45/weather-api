@@ -1,0 +1,31 @@
+{
+  "name": "weather-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "./node_modules/.bin/mocha -b -r ts-node/register ./tests/**/*.ts",
+    "start": " ts-node-dev server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.7",
+    "@types/express": "^4.17.0",
+    "@types/node": "^12.6.9",
+    "nodemon": "^1.19.1",
+    "ts-node-dev": "^1.0.0-pre.40",
+    "mocha": "^6.2.0",
+    "typescript": "^3.5.3",
+    "chai": "^4.2.0",
+    "dev": "^0.1.3"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "moment": "^2.24.0"
+  }
+}

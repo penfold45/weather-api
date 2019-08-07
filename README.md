@@ -32,6 +32,7 @@ The response will look like
 
 After checking out the code
 
+`npm install`
 `npm run start`
 
 To check everything is working as expected please run

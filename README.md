@@ -44,4 +44,4 @@ To check everything is working as expected please run
 * Save requests to a DB/ElasticSearch to servere as caching / reporting service. 
 * Create Docker instance
 * Add unit tests to the funcitonal tests
-* Could do with a but better error handling messages to usera are confusing.
+* Could do with better error handling.

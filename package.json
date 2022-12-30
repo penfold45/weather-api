@@ -17,7 +17,7 @@
     "@types/node": "^12.6.9",
     "nodemon": "^1.19.1",
     "ts-node-dev": "^1.0.0-pre.40",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "typescript": "^3.5.3",
     "chai": "^4.2.0",
     "dev": "^0.1.3"
